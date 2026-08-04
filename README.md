@@ -29,3 +29,6 @@ $ openssl rsa -in ~/.android-certs/releasekey.pem -RSAPublicKey_out -out lineage
 ```
 
 3. Push the changes to your fork.
+
+# UNTUK ORANG INDO
+jangan lupa ganti keys.mk sesuai dibagian akhir ntar ada vendor/lineage/key/keys.mk ganti aja sesuai path Rom nya,ga semua Rom sama
